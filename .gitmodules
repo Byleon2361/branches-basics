@@ -1,0 +1,27 @@
+[submodule "1-merge-ff"]
+	path = 1-merge-ff
+	url = https://github.com/branches-sandbox/merge-simple.git
+[submodule "2-merge-no-ff"]
+	path = 2-merge-no-ff
+	url = https://github.com/branches-sandbox/merge-simple.git
+[submodule "3-merge-dirty"]
+	path = 3-merge-dirty
+	url = https://github.com/branches-sandbox/merge-dirty.git
+[submodule "4-rebase-no-conflict"]
+	path = 4-rebase-no-conflict
+	url = https://github.com/branches-sandbox/no-conflict.git
+[submodule "5-merge-conflict-easy"]
+	path = 5-merge-conflict-easy
+	url = https://github.com/branches-sandbox/conflict-easy.git
+[submodule "7-merge-conflict-hard"]
+	path = 7-merge-conflict-hard
+	url = https://github.com/branches-sandbox/conflict-hard.git
+[submodule "8-rebase-conflict-hard"]
+	path = 8-rebase-conflict-hard
+	url = https://github.com/branches-sandbox/conflict-hard.git
+[submodule "2-merge-no-f"]
+	path = 2-merge-no-f
+	url = https://github.com/branches-sandbox/merge-simple.git
+[submodule "5-merge-conflict-easya"]
+	path = 5-merge-conflict-easya
+	url = https://github.com/branches-sandbox/conflict-easy.git
